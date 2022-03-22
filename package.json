@@ -1,0 +1,10 @@
+{
+  "name": "rollup-plugin-chrome-extension-bug",
+  "scripts": {
+    "dev": "vite build --mode=development --watch"
+  },
+  "dependencies": {
+    "rollup-plugin-chrome-extension": "^4.0.1-18",
+    "vite": "^2.8.6"
+  }
+}
